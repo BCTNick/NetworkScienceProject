@@ -1,0 +1,44 @@
+---
+title: "Report"
+format: html
+editor: visual
+---
+
+## Importazione
+
+```{r}
+#| warning: false
+#| echo: false
+knitr::read_chunk("script.R")
+```
+
+```{r librerie}
+#| echo: false
+#| warning: false
+```
+
+```{r importazione}
+#| warning: false
+```
+
+## Misure descrittive della rete
+
+-   Number of nodes (authors)
+
+-   Number of edges
+
+-   Diameter
+
+-   Density
+
+-   Modularity
+
+-   Number of communities
+
+-   
+
+    ## Top 15 autori per paper scritti
+
+## Misure di centralità per 15 autori top
+
+## GRAFICO DEL SOTTOGRAFO COMPLESSIVO CON CLUSTER E ETICHETTE
