@@ -640,3 +640,4 @@ ggraph(graph, layout = 'nicely') +
                  repel = TRUE, 
                  size = 3) + 
   theme(legend.position = 'none')
+print("hello")
