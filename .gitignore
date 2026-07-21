@@ -1,4 +1,12 @@
-.Rproj.user
+﻿.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Generated reports and figures
+report.html
+report_files/
+*.pdf
+
+# Local/obsolete drafts
+script obsoleti/
